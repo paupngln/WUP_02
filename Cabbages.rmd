@@ -40,6 +40,7 @@ veggy <- cabbages
 boxplot(VitC~Cult,data=veggy) 
 ```
 
+As per the graph above it shows that c52 gives more vitamin C rather than c39.
 
 ### Numerical Descriptive Results
 
