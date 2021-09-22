@@ -59,8 +59,11 @@ According to the plot above, the mean value of c39 is 51.5, while the mean for c
 ```{r}
 t.test(VitC~Cult,data=veggy)
 ```
-
+As per information above, the p value, 0.00000003405. It represents the chances of replicating a result like this if the null hypothesis is really true. 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In conclusion, the null hypothesis doesnt seem to be true, so in cases like this we need to reject the null hypothesis. It clearly shows that the c52 method yeilds more vitamin C rather than the c39 method. 
+
